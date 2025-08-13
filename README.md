@@ -5,10 +5,10 @@
 - It blends clean modeling with interactive visuals so you can compare job paths (e.g., Analyst vs. Scientist vs. Engineer), benchmark salaries, and spot which skills and tools drive the biggest career outcomes. <br>
 
 ## Interactive Dashboard:
-
+<!--
 **Click the dashboard to explore the interactive version** <br>
-
-[![Data Professionals Dashboard](https://github.com/EdwinSamuel7/Data-Professionals-Survey-Insights-Dashboard-Power-BI/blob/main/Data_Professionals-Dashboard.png)](https://public.tableau.com/app/profile/edwinsamuel7/viz/Singapore_Ailrlines_packaged_workbook/Dashboard12)
+-->
+[![Data Professionals Dashboard](https://github.com/EdwinSamuel7/Data-Professionals-Survey-Insights-Dashboard-Power-BI/blob/main/Data_Professionals-Dashboard.png)]
 
 ## Features
 - **Executive KPIs:** Respondents, median salary, avg. experience, satisfaction index, % remote.
