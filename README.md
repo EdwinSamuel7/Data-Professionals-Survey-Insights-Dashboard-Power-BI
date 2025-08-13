@@ -8,7 +8,7 @@
 <!--
 **Click the dashboard to explore the interactive version** <br>
 -->
-[![Data Professionals Dashboard](https://github.com/EdwinSamuel7/Data-Professionals-Survey-Insights-Dashboard-Power-BI/blob/main/Data_Professionals-Dashboard.png)]
+[[Data Professionals Dashboard](https://github.com/EdwinSamuel7/Data-Professionals-Survey-Insights-Dashboard-Power-BI/blob/main/Data_Professionals-Dashboard.png)]
 
 ## Features
 - **Executive KPIs:** Respondents, median salary, avg. experience, satisfaction index, % remote.
