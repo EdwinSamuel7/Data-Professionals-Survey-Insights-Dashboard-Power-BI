@@ -8,7 +8,7 @@
 
 **Click the dashboard to explore the interactive version** <br>
 
-[![Data Professionals Dashboard](https://github.com/EdwinSamuel7/Airline-Reviews-Analysis-Dashboard-Tableau/blob/main/Airline-Reviews-Dashboad.png)](https://public.tableau.com/app/profile/edwinsamuel7/viz/Singapore_Ailrlines_packaged_workbook/Dashboard12)
+[![Data Professionals Dashboard](https://github.com/EdwinSamuel7/Data-Professionals-Survey-Insights-Dashboard-Power-BI/blob/main/Data_Professionals-Dashboard.png)](https://public.tableau.com/app/profile/edwinsamuel7/viz/Singapore_Ailrlines_packaged_workbook/Dashboard12)
 
 ## Features
 - **Executive KPIs:** Respondents, median salary, avg. experience, satisfaction index, % remote.
